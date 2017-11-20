@@ -139,7 +139,7 @@
             app:borderWidth="@dimen/fab_border"
             app:layout_anchor="@id/appbar"
             app:layout_anchorGravity="bottom|right|end"
-            app:pressedTranslationZ="12dp" />
+            app:pressedTranslationZ="6dp" />
 
     </android.support.design.widget.CoordinatorLayout>
 
